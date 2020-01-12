@@ -45,6 +45,8 @@ h1 {
   border: 2px solid black;
 }
 
+
+/*** main content styling ***/
 #our-menu {
 	font-size: 26px;
 	margin-top: 10px;
@@ -53,7 +55,7 @@ h1 {
 .menu-item {
 	background-color: lightgrey;
 	border: none;
-	margin: 20px;
+	margin: 10px 0 10px 0;
 	padding: 0 5px 3px 5px;
 	height: 300px;
 	overflow: hidden;
