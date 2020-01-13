@@ -1,6 +1,9 @@
 * {
 	box-sizing: border-box;
 }
+body {
+	background-color: none;
+}
 
 h1 {
 	font-family: Optima;
